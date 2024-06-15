@@ -1,0 +1,37 @@
+.header{
+  padding: 5px;
+  background-color: white;
+  width: 520px;
+  background-position: center;
+  background-size: cover;
+  font-family: "Noto Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+  font-variation-settings:
+  "wdth" 100;
+}
+.img{
+  background-image: url("./a.png");
+  background-position: center;
+  height: 460px;
+  width: 500px;
+  padding-top: 50px;
+  padding-right: 70px;
+  padding-left: 70px;
+  padding-bottom: 50px;
+}
+.h1{
+  padding-left:80px;
+  font-family: "Oswald", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
+.h2{
+  padding-left: 180px;
+  font-family: "Oswald", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
